@@ -9,8 +9,8 @@ body { padding-top: 70px;
 .well {
   padding-top: 50px;
   border-style: inset;
-  background: linear gradient(top to bottom, White-stop1,Black-stop2);
-  
+  background-image: url("gradient.png");
+  background-color: Black,White;
 }
 
 h1,h2 { color: Yellow;
