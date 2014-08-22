@@ -8,8 +8,8 @@ body { padding-top: 70px;
 
 .well {
   padding-top: 50px;
-  background-color: Red;
-  border-style: double;
+  border-style: inset;
+  background-color: linear gradient(top to bottom, Gray-stop1,White-stop2);
   
 }
 
