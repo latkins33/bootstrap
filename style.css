@@ -9,7 +9,7 @@ body { padding-top: 70px;
 .well {
   padding-top: 50px;
   border-style: inset;
-  background-color: linear gradient(top to bottom, Gray-stop1,White-stop2);
+  background: linear gradient(top to bottom, White-stop1,Black-stop2);
   
 }
 
