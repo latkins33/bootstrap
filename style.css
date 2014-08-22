@@ -10,7 +10,7 @@ body { padding-top: 70px;
   height: 500px;
   padding-top: 50px;
   background-color: Red;
-  border-style: Inset;
+  border-style: outset;
   
 }
 
